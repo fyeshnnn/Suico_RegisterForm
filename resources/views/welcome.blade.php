@@ -35,7 +35,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Laravel is Working! 🌷</h1>
+        <h1>Welcome! Do you want to register? 🌷</h1>
         <a href="/register">Go to Registration Form</a>
     </div>
 </body>
